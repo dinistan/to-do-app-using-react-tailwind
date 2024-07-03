@@ -1,5 +1,5 @@
 React To-Do App
-Overview
+	Overview
 This is a To-Do app created using React and Tailwind CSS, with Vite as the build tool. The app allows users to add, mark as complete/incomplete, and delete tasks. The task list is saved in the browser's local storage, ensuring persistence between sessions.
 
 Features
